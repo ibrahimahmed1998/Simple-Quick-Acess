@@ -1,4 +1,4 @@
 # Simple-Quick-Acess
-is page help you to access your web sites quickly without using keyboard 
-it's simple and this is first i do when learning programming only html-css
-you can overwrite what you want 
+this is html page help to access your web sites quickly by storing it URLs  
+it only contain Image - html - css 
+you can overwrite what you want " only add url and it logo image extension " 
